@@ -1,0 +1,10 @@
+{
+  "name": "六级搭子",
+  "short_name": "六级搭子",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f1115",
+  "theme_color": "#0f1115",
+  "orientation": "portrait",
+  "description": "六级备考：每天 50 词，分 5 批教、批批测，错词自动进错词本"
+}
